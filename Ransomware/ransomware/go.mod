@@ -6,7 +6,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/fatih/color v1.6.0
 	github.com/labstack/echo v2.2.0+incompatible
-	golang.org/x/net v0.17.0
+	golang.org/x/net v0.36.0
 )
 
 require (
@@ -19,5 +19,5 @@ require (
 	github.com/stretchr/testify v1.2.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
-	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 )
